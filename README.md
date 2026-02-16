@@ -76,7 +76,7 @@ adaptive-rag-assistant/\
 1.  Clone Repository
 
 ``` bash
-git clone https://github.com/yourusername/adaptive-rag-assistant.git
+git clone https://github.com/vikashajithan/RAG_PROJECT.git
 cd adaptive-rag-assistant
 ```
 
